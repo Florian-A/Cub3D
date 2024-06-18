@@ -1,0 +1,7 @@
+*.o
+*.a
+.DS_Store
+.utest/*.o
+utest
+cub3D
+*.log
