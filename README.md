@@ -2,7 +2,7 @@
 
 Septième projet de [42](https://42.fr/) et deuxième projet graphique qui utilise la [MiniLibX](https://harm-smits.github.io/42docs/libs/minilibx).
 
-Jeu semblable à Wolfeinstein3D, considéré comme le premier FPS.
+Implémentation du raycasting afin de réaliser un moteur graphique semblable au jeu Wolfeinstein3D.
 
 Le but du joueur est de se déplacer dans un dédale de salles sans objectif précis.
 
